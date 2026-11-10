@@ -4,7 +4,7 @@ I learn about AI by building with it in real projects, and I keep what actually 
 
 **Things I've built**
 - [Rubber Duck](https://github.com/jingyibuilds/rubber-duck): a small skill for thinking out loud with AI. Dump a messy idea and get back one short map that keeps to your question and doesn't just agree with you.
-- [forthree 反三](https://github.com/jingyibuilds/forthree): a school of one. An app for learning practical CS, built around learning that becomes yours.
+- [forthree](https://github.com/jingyibuilds/forthree): a school of one. An app for learning practical CS, built around learning that becomes yours.
 - [Claude Code Power Setup](https://github.com/jingyibuilds/claude-code-power-setup): custom skills, hooks, and a four-file setup that keeps Claude Code's instructions from drifting.
 
 **Writing**
