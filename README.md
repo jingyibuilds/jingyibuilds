@@ -8,10 +8,7 @@ I learn about AI by building with it in real projects, and I keep what actually 
 - [Claude Code Power Setup](https://github.com/jingyibuilds/claude-code-power-setup): custom skills, hooks, and a four-file setup that keeps Claude Code's instructions from drifting.
 
 **Writing**
-- [AI for the Vast Majority · AI与大多数人](https://jingyithoughts.substack.com): a bilingual Substack on AI and everyday life.
+- [AI for the Vast Majority](https://jingyithoughts.substack.com): a bilingual Substack on AI and everyday life.
 
-**How I think about AI**
-> 省的心 > 管理它花的心
-> The effort AI saves must exceed the effort of managing it.
 
 Data scientist by training. Builder by instinct. Everything here is a side project, built because I'm curious, not because someone asked me to.
